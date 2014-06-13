@@ -1,0 +1,17 @@
+{
+  "name": "eqwul",
+  "version": "0.1.0",
+  "homepage": "https://github.com/moimikey/eqwul",
+  "authors": [
+    "Michael Scott Hertzberg <mshertzberg@gmail.com>"
+  ],
+  "description": "jquery plugin implementation of attempted google plus grid algorithm",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
